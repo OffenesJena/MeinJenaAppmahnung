@@ -41,13 +41,13 @@ Die restlichen "Verstöße" meinerseits sind im Übrigen veröffentliche Variabl
  
 ## Forderungen
  
-Deshalb stelle ich folgende Forderungen an unseren Oberbürgermeister Dr. Thomas Nitzsche, in seiner Funktion als Vorsitzenden des Aufsichtsrates der Stadtwerke Jena GmbHs:
+Deshalb stelle ich folgende Forderungen an unseren Oberbürgermeister Dr. Thomas Nitzsche, in seiner Funktion als Vorsitzenden der Aufsichtsräte der Stadtwerke Jena GmbHs:
  
 1. Entfernung aller Nutzertracking-, Werbe- und energiewirtschaftlichen Komponenten aus der MeinJena-App.
  
-2. Umwandlung der MeinJena-App in ein OpenSource-Projekt mit einer reinen gemeinnützigen Zielstellung für Mobilität und Umweltinformationen in und um Jena, um verlorenes Vertrauen wiederzugewinnen.
+2. Umwandlung der MeinJena-App in ein echtes Open-Source-Projekt mit einer reinen gemeinnützigen Zielstellung für Mobilität und Umweltinformationen in und um Jena, um verlorenes Vertrauen gerade bei Kindern und Jugendlichen wiederzugewinnen.
  
-3. Sofortige Beurlaubung der Geschäftsführung der Stadtwerke Energie Jena-Pößneck GmbH, Stadtwerke Jena GmbH und Nahverkehr Jena GmbH für mindestens ein Jahr in denen sie verpflichtet werden eine Programmiersprache und die Grundlagen der IT-Sicherheit zu lernen und sich mit den EU-PSI-Direktive, der EU-Umweltinformationsrichtlinie, der EU-, Bundes- und Landesinformationsfreiheits- und Transparenzgesetzgebungen inkl. der bisherigen Rechtsprechung hierzu zu beschäftigen.
+3. Sofortige Beurlaubung der Geschäftsführung der Stadtwerke Energie Jena-Pößneck GmbH, Stadtwerke Jena GmbH und Nahverkehr Jena GmbH für mindestens ein Jahr in dem sie verpflichtet werden eine Programmiersprache und die Grundlagen der IT-Sicherheit zu lernen und sich mit den EU-PSI-Direktive, der EU-Umweltinformationsrichtlinie, der EU-, Bundes- und Landesinformationsfreiheits- und Transparenzgesetzgebungen inkl. der bisherigen Rechtsprechung hierzu zu beschäftigen.
  
 4. Berufung der unbesetzten und undefinierten Stelle eines vierten Dezernenten und Schaffung eines Dezernates für Transparenz und Digitale Schnittstellen durch den Oberbürgermeister Dr. Thomas Nitzsche. Meine Initiativbewerbung folgt demnächst :)
  
