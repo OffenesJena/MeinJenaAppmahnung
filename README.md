@@ -1,4 +1,4 @@
-# MeinJenaAppmahnung
+![MeinJenaAppmahnungScream](https://github.com/OffenesJena/MeinJenaAppmahnung/blob/master/MeinJenaAppmahnungScream.png)
 
 Gerade noch rechtzeitig vor... bestätigt die @Stadtwerke Jena Gruppe - auf ihre Art - dass sie massive Sicherheitslücken in der #MeinJenaApp haben. Und wahrscheinlich nicht nur an dieser Stelle! Harmlos aussehende Zeichenfolgen mit interessanten Bezeichnungen scheinen sicherheitsrelevanter zu sein als man bei einer solchen App annehmen würde. Hinzu kommt, dass dies App neuerdings auch damit beworben wird personenbezogene Daten der Stadtwerke-Strom-/Gas-/etc.pp-Kunden zu verarbeitet (siehe Facebook-Posting vom 16. April 2019: "Kundenportal der Stadtwerke Energie: Persönliche Daten zum Konto, Zählerstände oder Rechnungen können ganz einfach abgerufen werden"). Aber geht es hier wirklich um Sicherheitslücken oder um etwas ganz anderes?
  
